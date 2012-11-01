@@ -1,0 +1,18 @@
+{
+  "author": "Keming Labs",
+  "name": "c2po-js",
+  "version": "0.1.0",
+  "description": "JavaScript bindings to the C2PO grammar of graphics system.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keminglabs/c2po-js"
+  },
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "coffee-script": ">= 1.2",
+    "uglify-js": ">= 1.2.5"
+  }
+}
